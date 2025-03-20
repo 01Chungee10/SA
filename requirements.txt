@@ -1,0 +1,12 @@
+pandas
+numpy
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+transformers
+pytorch_lightning
+PyQt5
+datetime
+requests
+httpx
+huggingface_hub 
